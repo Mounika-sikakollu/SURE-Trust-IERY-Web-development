@@ -1,0 +1,153 @@
+
+  .myBtn_multi{
+  color: #DB7093;
+  background-color:whitesmoke;
+  font-size: 2rem;
+  border:1px solid #DB7093;
+  width:30%;
+  margin: 10px 20px;
+  padding-top: 2rem ;
+  justify-content: center;
+  }
+  .myBtn_multi:hover{
+    background-color: aliceblue;
+  }
+ /* .box{
+    background:#fff;
+    border-radius: .5rem;
+    box-shadow: .5rem .5rem 0 rgb(155, 155, 154, .2);
+    border:.2rem solid #DB7093;
+    padding: 3rem;
+    padding-top: 2rem;
+    margin-top: 50px;
+    transition: transform 0.2s;
+  }*/
+
+        /* The Modal (background) */
+        .modal {
+          display: none; /* Hidden by default */
+          position: fixed; /* Stay in place */
+          z-index: 1; /* Sit on top */
+          padding-top: 100px; /* Location of the box */
+          left: 0;
+          top: 0;
+          width: 100%; /* Full width */
+          height: 100%; /* Full height */
+          overflow: auto; /* Enable scroll if needed */
+          background-color: rgb(0,0,0); /* Fallback color */
+          background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+        }
+        
+        /* Modal Content */
+        .modal-content {
+          background-color: #fefefe;
+          margin: auto;
+          padding: 2rem 2rem;
+          border: 1px solid #888;
+          width: 60%;
+          font-size:1.6rem;
+        }.modal-content.table {
+          padding: 5px 5px;
+          border:1px solid grey ;
+        }
+          .modal-content,td, th {
+            border: 1px solid #dddddd;
+            text-align: center;
+            padding: 5px;
+          }
+          tr:nth-child(even) {
+            background-color: #dddddd;
+          }
+        
+        /* The Close Button */
+        .close {
+          color: #aaaaaa;
+          float: right;
+          font-size: 18px;
+          font-weight: bold;
+        }
+        
+        .close:hover,
+        .close:focus {
+          color: #000;
+          text-decoration: none;
+          cursor: pointer;
+        }
+      
+  /*
+  .button {
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  
+  .button1 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #4CAF50;
+  }
+  
+  .button1:hover {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  .button2 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #008CBA;
+  }
+  
+  .button2:hover {
+    background-color: #008CBA;
+    color: white;
+  }
+  .button3 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #DB7093;
+  }
+  
+  .button3:hover {
+    background-color: #DB7093;
+    color: white;
+  }
+  .button4 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #4CAF50;
+  }
+  
+  .button4:hover {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  .button5 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #008CBA;
+  }
+  
+  .button5:hover {
+    background-color: #008CBA;
+    color: white;
+  }
+  .button6 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #DB7093;
+  }
+  
+  .button6:hover {
+    background-color: #DB7093;
+    color: white;
+  }*/
+  
